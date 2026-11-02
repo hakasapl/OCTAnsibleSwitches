@@ -1,0 +1,4 @@
+---
+collections:
+  - name: cci_moc.stateful_switches
+  - name: dellemc.os9
